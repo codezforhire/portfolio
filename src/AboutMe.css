@@ -1,0 +1,33 @@
+.about-me {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: linear-gradient(to bottom, #0c0f12,#000);
+    filter: brightness(0.6);
+  }
+  
+  .about-me-text {
+    flex: 1;
+    color: white;
+    margin-right: 2rem;
+  }
+  
+  .about-me-text h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-me-text p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 100px;
+    color: white;
+  }
+  
+  /* .img{
+    width: 105%;
+    border-radius: 10px;
+  } */

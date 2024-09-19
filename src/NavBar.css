@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: right; 
+    background-color: transparent !important;  
+    padding: 10px 80px;
+    margin-top: 29px;
+    margin-right: 30px; 
+  }
+  
+  .nav-items {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: right;
+  }
+  
+  .nav-items a {
+    color: white;  
+    text-decoration: none;
+    margin-right: 30px;
+    justify-content: space-between; 
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-weight: bold;
+  }
+  
+  .nav-items a:hover {
+    text-decoration: underline;
+  }
+  
